@@ -10,7 +10,7 @@
 
 - **TryHackMe SOC Level 1 Labs**  
   Hands-on investigation of real-world security incidents using Splunk & Elastic SIEM  
-  [📂 Reports & Analysis →](https://github.com/aaashi03/)
+  [📂 Reports & Analysis →](https://github.com/aaashi03/SOC-Labs)
 
 - **Blue Team Home Lab Setup**  
   Built local lab using VirtualBox, Splunk Enterprise  
