@@ -56,5 +56,14 @@ Teamwork · Communication
 
 ---
 
+## 📜 Certifications
+
+- **Ethical Hacking Training** – Hacker School  
+  *May 2024 – July 2024*  
+  Covered ethical hacking, vulnerability assessment, and penetration testing.  
+  ![Certificate](https://github.com/aaashi03/certificates/blob/main/ethical-hacking-certificate.jpg)
+
+
+
 > 🚀 Currently seeking an opportunity as a SOC Analyst (L1)  
 > 💬 Always open to connect on [LinkedIn](https://www.linkedin.com/in/ashish-sawant-a02412260/)
